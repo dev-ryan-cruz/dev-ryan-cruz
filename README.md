@@ -21,11 +21,13 @@ A minha experiência no suporte permite-me identificar rapidamente a raiz dos pr
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dev-ryxcruz&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="190"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-ryxcruz&theme=tokyonight" alt="Estatísticas do GitHub">
+</a>
+
+</div>
 
 ---
 

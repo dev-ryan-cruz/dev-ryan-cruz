@@ -50,8 +50,12 @@ O meu foco atual é o desenvolvimento robusto com o ecossistema Microsoft e tecn
       <br>SQLite
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=arch" width="48" height="48" alt="Arch Linux" />
-      <br>Arch Linux
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
     </td>
   </tr>
 </table>
